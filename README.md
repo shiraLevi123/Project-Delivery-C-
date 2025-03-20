@@ -15,7 +15,7 @@
 - **API**
 - **CSS3**
 ---
-### מאפיינים מרכזיים:
+### 💡מאפיינים מרכזיים:
 
    - **התחברות והתנתקות** 
   - **דף בית**
@@ -32,7 +32,6 @@
 ---
 
 ## 📸צילומי מסך
----
 
 ![check](https://github.com/user-attachments/assets/58eca78b-bc9c-47c6-b0ae-5b568f41cae6)
 
