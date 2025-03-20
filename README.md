@@ -14,7 +14,7 @@
 - **JWT**
 - **API**
 - **CSS3**
-
+---
 ### מאפיינים מרכזיים:
 
    - **התחברות והתנתקות** 
@@ -29,7 +29,7 @@
    - **עדכון שליח**
    - **בדיקה אם הגיע תאריך של הזמנה דחופה**
    - **הרשאות גישה ואבטחה**
-
+---
 
 ## 📸צילומי מסך
 ---
@@ -76,7 +76,7 @@
 ![רשימת הזמנות](https://github.com/user-attachments/assets/3822c5aa-f691-48c3-ba58-21ef89476885)
 
 ---
----
+
 ![מייל](https://github.com/user-attachments/assets/521be34c-dd88-422e-8694-577afe67f619)
 
 
